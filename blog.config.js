@@ -4,7 +4,7 @@ const BLOG = {
   email: 'sdupan2015@gmail.com',
   link: 'https://blog.xiaohanys.top',
   description: '生物信息知识库, 编程, 前端, 网站搭建, 人工智能, AI',
-  lang: 'zh-HK', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'Arial', // ['sans-serif', 'serif']
